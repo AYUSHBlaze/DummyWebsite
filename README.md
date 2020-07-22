@@ -1,2 +1,1 @@
-# DummyWebsite
-Implementing what I've learned so far.
+Coursera module2
