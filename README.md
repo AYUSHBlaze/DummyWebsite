@@ -1,1 +1,2 @@
-Coursera module2
+Course: Html, Css and Javascript (John Hopkins University)
+Platform: Coursera
